@@ -26,9 +26,10 @@ install: follow instructions at [https://nodejs.org/]()
 
 node version manager 
 
-### bower
+### bower 
 
-[https://bower.io/]()
+[https://bower.io/](): 
+`npm install -g bower`
 
 ### polymer
 

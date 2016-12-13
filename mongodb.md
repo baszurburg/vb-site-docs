@@ -10,4 +10,7 @@ The best links:
 
 [Tutorials](https://docs.mongodb.com/manual/tutorial/)
 
+[Manage mongod Processes](https://docs.mongodb.com/manual/tutorial/manage-mongodb-processes/)
+
+
 [Install MongoDB Community Edition on Ubuntu](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
