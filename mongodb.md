@@ -1,6 +1,10 @@
 # Mongo DB
 
-The best links:
+## Commands
+
+start: `sudo service mongod start`
+stop: `sudo service mongod stop`
+restart: `sudo service mongod restart`
 
 ## Documentation
 

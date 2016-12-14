@@ -9,10 +9,22 @@ The source files for the websites are located in **/var/www/** e.g. */var/www/ex
 
 Apache dir: **/etc/apache2/**
 
+### Mongodb
 
-
+* datafiles: **/var/lib/Mongodb**
+* logfiles: **/var/log/mongodb**
+* configuration: **/etc/mongod.conf**
+* database: **/data/db**
 
 ## Commands
+
+### Apt-Get
+
+* Update repository: `sudo apt-get update`
+* Install a package: `sudo apt-get install [package name]`
+* Remove a package: `sudo apt-get remove [package name]`
+* Upgrade packages: `sudo apt-get upgrade`
+* help: `apt-get help`
 
 ### Version
 
