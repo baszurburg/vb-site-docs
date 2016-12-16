@@ -1,22 +1,15 @@
 # How to setup a site on Linux with Apache or NginX
 
-## References
-
-* [http://httpd.apache.org/docs/current/]()
-* [http/2](http://httpd.apache.org/docs/2.4/howto/http2.html)
-
 ## Locations
 
-### Website sourcefiles
-The source files for the website are located in **/var/www/** e.g. */var/www/example.com/public_html*
+* Website: **/var/www/** e.g. */var/www/example.com/public_html*
+* Apache: **/etc/apache2/**
+
+## NginX
 
 
 
-### NginX
-
-
-
-### Apache2
+## Apache2
 
 Apache dir: **/etc/apache2/**
 
@@ -26,7 +19,13 @@ Apache dir: **/etc/apache2/**
 
 To disable a site run `$sudo a2dissite [site-file]` 
 
-### Mongo DB
+### References
+
+* [http://httpd.apache.org/docs/current/]()
+* [http/2](http://httpd.apache.org/docs/2.4/howto/http2.html)
+
+
+## Mongo DB
 
 See also the [mongodb.md](./mongodb.md) file 
 
