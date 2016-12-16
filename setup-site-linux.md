@@ -1,4 +1,4 @@
-# How to setup a site on Apache 2
+# How to setup a site on Linux with Apache or NginX
 
 ## References
 
@@ -9,6 +9,12 @@
 
 ### Website sourcefiles
 The source files for the website are located in **/var/www/** e.g. */var/www/example.com/public_html*
+
+
+
+### NginX
+
+
 
 ### Apache2
 

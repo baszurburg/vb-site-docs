@@ -18,6 +18,11 @@ Apache dir: **/etc/apache2/**
 
 ## Commands
 
+### Frequenlty used
+
+* running proecesses: `ps aux | grep 'query'`
+
+
 ### Apt-Get
 
 * Update repository: `sudo apt-get update`

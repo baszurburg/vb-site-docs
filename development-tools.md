@@ -31,6 +31,12 @@ node version manager
 [https://bower.io/](): 
 `npm install -g bower`
 
+### PM2
+
+A Production process manager for Node.js
+
+[http://pm2.keymetrics.io/](http://pm2.keymetrics.io/)
+
 ### polymer
 
 `npm i -g polymer-cli` (-- also to update version)
