@@ -1,5 +1,18 @@
 # NginX
 
+## Install
+
+## Locations
+
+## Configuration
+
+## Useful commands
+
+
+
+
+## More resources
+
 [https://www.rosehosting.com/blog/install-keystonejs-on-an-ubuntu-14-04/](https://www.rosehosting.com/blog/install-keystonejs-on-an-ubuntu-14-04/)
 
 [How To Set Up a Node.js Application for Production on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04)
