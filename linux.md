@@ -31,6 +31,8 @@ Apache dir: **/etc/apache2/**
 * Upgrade packages: `sudo apt-get upgrade`
 * help: `apt-get help`
 
+[get from this](https://www.maketecheasier.com/8-ways-to-maintain-a-clean-lean-ubuntu-machine/)
+
 ### Version
 
 * OS: `uname -v`
