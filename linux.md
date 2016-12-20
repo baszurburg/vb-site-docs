@@ -20,7 +20,7 @@ Apache dir: **/etc/apache2/**
 
 ### Frequenlty used
 
-* running proecesses: `ps aux | grep 'query'`
+* running processes: `ps aux | grep 'query'`
 
 
 ### Apt-Get
@@ -31,7 +31,7 @@ Apache dir: **/etc/apache2/**
 * Upgrade packages: `sudo apt-get upgrade`
 * help: `apt-get help`
 
-[get from this](https://www.maketecheasier.com/8-ways-to-maintain-a-clean-lean-ubuntu-machine/)
+[Hey! Get from this](https://www.maketecheasier.com/8-ways-to-maintain-a-clean-lean-ubuntu-machine/)
 
 ### Version
 

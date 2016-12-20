@@ -40,6 +40,9 @@ server {
     }
 }
 ```
+* To enable a site, run the following command:
+`ln -s /etc/nginx/sites-available/www.example.org.conf /etc/nginx/sites-enabled/`
+* restart: `sudo service nginx restart`
 
 ## Run
 

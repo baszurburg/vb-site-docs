@@ -17,7 +17,7 @@ To list all available virtualhosts, you can run the following command:
 
 `ls /etc/nginx/sites-available`	
 
-To activate a site, run the following command:
+To enable a site, run the following command:
 
 `ln -s /etc/nginx/sites-available/www.example.org.conf /etc/nginx/sites-enabled/`
 
@@ -31,7 +31,7 @@ To activate a site, run the following command:
 
 [https://www.rosehosting.com/blog/install-keystonejs-on-an-ubuntu-14-04/](https://www.rosehosting.com/blog/install-keystonejs-on-an-ubuntu-14-04/)
 
-[How To Set Up a Node.js Application for Production on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04)
+[How To Set Up a Node.js Application for Production on Ubuntu 16.04 with NginX and SSL](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04)
 
 [NGINX wiki](https://www.nginx.com/resources/wiki/)
 
