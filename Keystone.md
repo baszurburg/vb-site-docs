@@ -1,8 +1,6 @@
 # Keystone
 
-Keystone tips, hacks and best practices
-
-This document refers to the implementation of the cb-site-cms implementation.
+This document refers to the vb-site-cms implementation.
 
 ## Documentation
 
@@ -52,6 +50,6 @@ server {
 
 
 
-To read: [Practical Keystone.js](https://leanpub.com/keystonejs/read). It contains an intersting paragraph about debugging in visual code.
+To read: [Practical Keystone.js](https://leanpub.com/keystonejs/read). It contains an interesting paragraph about debugging in visual code.
 
 CSS: [Material Design for Bootstrap](http://mdbootstrap.com/material-design-for-bootstrap/)

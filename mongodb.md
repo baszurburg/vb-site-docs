@@ -29,5 +29,10 @@ More commands: [Mongo shell quick reference](https://docs.mongodb.com/manual/ref
 
 [Manage mongod Processes](https://docs.mongodb.com/manual/tutorial/manage-mongodb-processes/)
 
-
 [Install MongoDB Community Edition on Ubuntu](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+
+### Remote 
+
+[MongoDB - allow remote access](https://www.mkyong.com/mongodb/mongodb-allow-remote-access/)
+
+[Robomongo](https://robomongo.org/)
