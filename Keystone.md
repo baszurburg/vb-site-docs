@@ -50,6 +50,9 @@ server {
 
 
 
-To read: [Practical Keystone.js](https://leanpub.com/keystonejs/read). It contains an interesting paragraph about debugging in visual code.
+More documentation: 
 
-CSS: [Material Design for Bootstrap](http://mdbootstrap.com/material-design-for-bootstrap/)
+* [Keystone documentation](http://keystonejs.com/docs/)
+* [Keystone wiki](https://github.com/keystonejs/keystone/wiki)
+* [Practical Keystone.js](https://leanpub.com/keystonejs/read). It contains an interesting paragraph about debugging in visual code.
+
