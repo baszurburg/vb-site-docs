@@ -47,6 +47,11 @@ server {
 1. start mongodb: `sudo service mongod start`
 1. start keystone: `pm2 start keystone.js`
 
+## Modifications
+
+Most of the logic is done in the theme files, but also in...
+
+* /admin/inc/theme_functions.php
 
 
 
